@@ -1,6 +1,6 @@
 import Component from "./Component.js";
 import EmailsModel from "./EmailsInputModel.js";
-import { createTemplate } from "./EmailsInputView.js";
+import { createTemplate, templateEmail } from "./EmailsInputView.js";
 import "./EmailsInput.css";
 
 export default class EmailsInput extends Component {

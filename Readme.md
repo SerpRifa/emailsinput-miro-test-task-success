@@ -37,6 +37,6 @@ npm run build
 
 ```
 
-#### 4. Demo
+#### Demo
 
-<a href="https://htmlacademy.ru/intensive/react">Demo</a>
+<a href="https://serprifa.github.io/">Demo</a>
