@@ -1,0 +1,10 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Webpack start</title><meta name="viewport" content="width=device-width,initial-scale=1"><link href="main.css" rel="stylesheet"></head><body>
+    <script src="bundle.js"></script>
+    <script>
+        const body = document.querySelector("body");
+        let mock = [`mail1@gmail.com`, `mail2@mail.com`, `invalid@supermail`, `mail@mail.com`, `invalid_mail.com`];
+        const emailsInput = new EmailsInput.default(body, mock);
+        emailsInput.render();
+    </script>
+</body>
+</html>
