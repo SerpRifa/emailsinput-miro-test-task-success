@@ -13,7 +13,7 @@
 
 #### Использование
 
-EmailsInput.default(conteiner, arrayOfEmails) - класс компонента
+EmailsInput.default(conteiner, arrayOfEmails) - конструктор компонента
 
 conteiner - родительский элемент типа Element, где будет рендереться компонент.
 arrayOfEmails - строковый массив, список емэйлов.
